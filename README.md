@@ -1,6 +1,6 @@
 ```
 class Nightmare extends Developer implements Brain {
-    Hi
+    // Put code here
 }
 ```
 # Stats
