@@ -1,5 +1,5 @@
 ```
-class Nightmate extends Developer implements Brain {
+class Nightmare extends Developer implements Brain {
     Hi
 }
 ```
